@@ -1,0 +1,8 @@
+# scoring only (no texts, no keys): the standard library is enough
+# LLM runs
+google-genai>=1.0
+anthropic>=0.60
+# mmBERT
+torch>=2.1
+transformers>=4.50
+numpy

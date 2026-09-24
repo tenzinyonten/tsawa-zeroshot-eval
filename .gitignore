@@ -1,0 +1,8 @@
+# never commit texts, keys, or raw replies (they quote the book text)
+data/raw_opf/
+runs/
+*.env
+.env
+__pycache__/
+*.pyc
+.DS_Store
